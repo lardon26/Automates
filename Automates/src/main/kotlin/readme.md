@@ -84,7 +84,7 @@ Les adresses mails prises en compte sont les adresses correspondantes à la list
 
 # Conclusion 
 
-Les automates sont des outils puissants pour modéliser et analyser des langages formels. Ils trouvent des applications dans divers domaines, de la reconnaissance de motifs à la validation de données. Dans ce projet, nous avons exploré trois automates conçus pour reconnaître des expressions spécifiques : des smileys, des heures au format HH:MM, et des adresses électroniques.
+Pour conclure, les automates sont des outils puissants pour modéliser et analyser des langages formels. Ils trouvent des applications dans divers domaines, de la reconnaissance de motifs à la validation de données. Dans ce projet, nous avons exploré trois automates conçus pour reconnaître des expressions spécifiques : des smileys, des heures au format HH:MM, et des adresses électroniques.
 
 L'automate de smileys permet de vérifier si une séquence de caractères correspond à des émoticônes courantes. Cela pourrait être utile dans le contexte de l'analyse de textes pour repérer des émotions ou des sentiments.
 
@@ -94,12 +94,6 @@ Enfin, l'automate d'adresse électronique valide la conformité des adresses e-m
 
 En résumé, les automates offrent une approche formelle et précise pour spécifier et valider des modèles de langages. Ce projet illustre comment ces outils peuvent être utilisés pour traiter des motifs spécifiques et garantir la conformité de données entrées par les utilisateurs.
 
-
-
-
-
-
-
 # Aides 
 Afin de réaliser ce projet, je me suis aidé de Raphaël Silly pour l'architechture du projet.
 
@@ -108,8 +102,3 @@ ChatGPT m'a aidé à réaliser le Main.kt et la conclusion.
 J'ai utilisé l'outil en ligne Graphiz pour réaliser les graphes d'automates. 
 
 Afin de savoir quelles adresses mails étaient valides j'ai utilisé la page wikipédia adresse électronique.
-
-
-# Conclusion 
-
-Pour conclure, ce projet est une véritable mise en pratique de la cré
