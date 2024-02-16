@@ -101,4 +101,4 @@ ChatGPT m'a aidé à réaliser le Main.kt et la conclusion.
 
 J'ai utilisé l'outil en ligne Graphiz pour réaliser les graphes d'automates. 
 
-Afin de savoir quelles adresses mails étaient valides j'ai utilisé la page wikipédia adresse électronique.
+Afin de savoir quelles adresses mails étaient valides j'ai utilisé la page wikipédia [adresse électronique](https://fr.wikipedia.org/wiki/Adresse_%C3%A9lectronique).
