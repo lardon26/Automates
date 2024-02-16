@@ -15,7 +15,7 @@ class Automate(val etats: Set<Etat>, val etatInitial: Etat, val etatsFinaux: Set
             }
             //Si la transition n'existe pour le caractère i depuis l'état courant -> return False
             if (!etatCourant.transition.containsKey(i)) {
-                println("$i n'est pas une transition")
+                //println("$i n'est pas une transition")
                 return false
             }
 

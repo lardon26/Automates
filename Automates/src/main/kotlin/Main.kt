@@ -54,8 +54,13 @@ fun main(args: Array<String>) {
         if (chaine != null) {
             if (automate.estUnMot(chaine)) {
                 println("\u001B[32mLa chaîne est valide.\u001B[0m")
+                println()
+                println("--------------------------------------")
             } else {
                 println("\u001B[31mLa chaîne est invalide.\u001B[0m")
+                println()
+                println("--------------------------------------")
+
             }
         } else {
             println("Entrée invalide.")
