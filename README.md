@@ -6,7 +6,7 @@ BUT-2 groupe-1
 
 R.412 automates et langages
 
-<img src="../kotlin/image/logojpg.jpg" width="100">
+<img src="./image/logojpg.jpg" width="100">
 
 # Modélisation et analyse à l'aide des automates
 
@@ -54,7 +54,7 @@ Une fois un des programmes lancés, l'utilisateur doit entré une chaine de cara
 
 **Graphe d'automate**
 
-<img src="../kotlin/image/graphe_smiley.svg">
+<img src="./image/graphe_smiley.svg">
 
 L'automate smiley permet de dire si un smiley est valide ou non, voici la liste exhaustive des smileys valides.
 ```:), :-), :(, ;-), :=), ]-)```.
@@ -65,7 +65,7 @@ Il est composé d'un état initial E1 et d'un état final E4. Il possède 5 éta
 
 **Graphe d'automate**
 
-<img src="../kotlin/image/graphe_heure.svg">
+<img src="./image/graphe_heure.svg">
 
 L'automate heure permet de valider qu'une heure est correcte au format ```HH:MM```. 
 Il est composé de 7 états, un état initial E0 et un état final M. 
@@ -75,7 +75,7 @@ Les minutes sont comprises entre 00 et 59 et les heures entre 00 et 23.
 
 **Graphe d'automate**
 
-<img src="../kotlin/image/graphe_adressemail.svg">
+<img src="./image/graphe_adressemail.svg">
 
 L'automate adresse permet de valider ou non le format d'une adresse email. 
 Il est composé de 6 états, un état initial E0 et un état final E5.
